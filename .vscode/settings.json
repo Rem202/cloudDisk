@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "thread_pool.h": "c",
+        "func_zm.h": "c",
+        "string.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "stat.h": "c"
+    }
+}
